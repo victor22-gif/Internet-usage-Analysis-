@@ -135,10 +135,7 @@ South Sudan      275.00%
 - Analyze policy implications of digital divide
 
 ## License
-[Include your chosen license here]
+MIT
 
 ## Author
-[Your Name]
-
-## Acknowledgments
-[Any acknowledgments you'd like to include]
+Emmanuel Victor 
